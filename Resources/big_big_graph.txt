@@ -1,0 +1,167 @@
+node 1 1
+node 4 1
+node 6 1
+node 8 1
+node 1 4
+node 4 4
+node 6 4
+node 8 4
+node 1 6
+node 4 6
+node 6 6
+node 8 6
+node 1 8
+node 4 8
+node 6 8
+node 8 8
+edge 1 1 4 1
+edge 4 1 6 1
+edge 6 1 8 1
+edge 1 4 4 4
+edge 4 4 6 4
+edge 6 4 8 4
+edge 1 6 4 6
+edge 4 6 6 6
+edge 6 6 8 6
+edge 1 8 4 8
+edge 4 8 6 8
+edge 6 8 8 8
+edge 1 1 1 4
+edge 1 4 1 6
+edge 1 6 1 8
+edge 4 1 4 4
+edge 4 4 4 6
+edge 4 6 4 8
+edge 6 1 6 4
+edge 6 4 6 6
+edge 6 6 6 8
+edge 8 1 8 4
+edge 8 4 8 6
+edge 8 6 8 8
+node 10 1
+node 20 1
+node 30 1
+node 40 1
+node 10 4
+node 20 4
+node 30 4
+node 40 4
+node 10 6
+node 20 6
+node 30 6
+node 40 6
+node 10 8
+node 20 8
+node 30 8
+node 40 8
+edge 10 1 20 1
+edge 20 1 30 1
+edge 30 1 40 1
+edge 10 4 20 4
+edge 20 4 30 4
+edge 30 4 40 4
+edge 10 6 20 6
+edge 20 6 30 6
+edge 30 6 40 6
+edge 10 8 20 8
+edge 20 8 30 8
+edge 30 8 40 8
+edge 10 1 10 4
+edge 10 4 10 6
+edge 10 6 10 8
+edge 20 1 20 4
+edge 20 4 20 6
+edge 20 6 20 8
+edge 30 1 30 4
+edge 30 4 30 6
+edge 30 6 30 8
+edge 40 1 40 4
+edge 40 4 40 6
+edge 40 6 40 8
+node 1 10
+node 4 10
+node 6 10
+node 8 10
+node 1 20
+node 4 20
+node 6 20
+node 8 20
+node 1 30
+node 4 30
+node 6 30
+node 8 30
+node 1 40
+node 4 40
+node 6 40
+node 8 40
+edge 1 10 4 10
+edge 4 10 6 10
+edge 6 10 8 10
+edge 1 20 4 20
+edge 4 20 6 20
+edge 6 20 8 20
+edge 1 30 4 30
+edge 4 30 6 30
+edge 6 30 8 30
+edge 1 40 4 40
+edge 4 40 6 40
+edge 6 40 8 40
+edge 1 10 1 20
+edge 1 20 1 30
+edge 1 30 1 40
+edge 4 10 4 20
+edge 4 20 4 30
+edge 4 30 4 40
+edge 6 10 6 20
+edge 6 20 6 30
+edge 6 30 6 40
+edge 8 10 8 20
+edge 8 20 8 30
+edge 8 30 8 40
+node 10 10
+node 20 10
+node 30 10
+node 40 10
+node 10 20
+node 20 20
+node 30 20
+node 40 20
+node 10 30
+node 20 30
+node 30 30
+node 40 30
+node 10 40
+node 20 40
+node 30 40
+node 40 40
+edge 10 10 20 10
+edge 20 10 30 10
+edge 30 10 40 10
+edge 10 20 20 20
+edge 20 20 30 20
+edge 30 20 40 20
+edge 10 30 20 30
+edge 20 30 30 30
+edge 30 30 40 30
+edge 10 40 20 40
+edge 20 40 30 40
+edge 30 40 40 40
+edge 10 10 10 20
+edge 10 20 10 30
+edge 10 30 10 40
+edge 20 10 20 20
+edge 20 20 20 30
+edge 20 30 20 40
+edge 30 10 30 20
+edge 30 20 30 30
+edge 30 30 30 40
+edge 40 10 40 20
+edge 40 20 40 30
+edge 40 30 40 40
+edge 8 8 10 8
+edge 8 8 8 10
+edge 8 8 10 10
+edge 8 10 10 10
+edge 10 8 10 10
+station 1 1
+fire 40 40

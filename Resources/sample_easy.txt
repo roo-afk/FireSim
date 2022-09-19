@@ -1,0 +1,10 @@
+node 0 0
+node 99 0
+node 0 99
+node 99 99
+edge 0 0 99 0
+edge 0 0 0 99
+edge 0 99 99 99
+edge 99 0 99 99
+station 0 0
+
